@@ -1,0 +1,2 @@
+#define MoonShot_VERSION_MAJOR @MoonShot_VERSION_MAJOR@
+#define MoonShot_VERSION_MINOR @MoonShot_VERSION_MINOR@
